@@ -14,4 +14,4 @@ html_js_files = [
     'chat.js',]
 
 
-html_favicon = '_static/download.png'
+html_favicon = '_static/facicone verizon.jpg'
