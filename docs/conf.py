@@ -1,4 +1,4 @@
-project = ''
+project = 'Verizon Fios'
 author = 'Your Name'
 release = '1.0'
 
@@ -14,4 +14,4 @@ html_js_files = [
     'chat.js',]
 
 
-html_favicon = '_static/facicone verizon.jpg'
+html_favicon = '_static/verizon.jpg'
